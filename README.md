@@ -9,7 +9,7 @@ Learning to code for the past two years and started with html and currently work
 * 🌍  I'm based in Tamilnadu, India
 * 🖥️  See my portfolio at [My-portfolio](http://github.com/Ragupathi-Chinnasamy)
 * ✉️  You can contact me at [ragupathichinnasamy202@gmail.com](mailto:ragupathichinnasamy202@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm currently learning Flutter
 * 🤝  I'm open to collaborating on backed node projects
 
 ### Skills
